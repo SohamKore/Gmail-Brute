@@ -1,0 +1,4 @@
+colorama
+PySocks
+socks
+AND A BRAIN. (hope ur not some zombie just chilling on github testing scripts and shit.)
