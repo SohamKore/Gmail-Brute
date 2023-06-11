@@ -1,5 +1,5 @@
 # Gmail-Brute
-Wassup How u doin momma lemme whisper in yo ear.
+
 # Usage
 1. apt install python3
 2. git clone https://github.com/SohamKore/Gmail-Brute
